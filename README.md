@@ -81,10 +81,37 @@ Hands-on experience across **cloud/data engineering, automation, ML development,
 - **SeeThroughBU** (TypeScript) — <https://github.com/sinhaarya04/SeeThroughBU>
 - **Unsupervised Trading Strategy** (Jupyter) — <https://github.com/sinhaarya04/UnsupervisedTradingStrategy>
 - **News Sentiment Analysis** (Jupyter) — <https://github.com/sinhaarya04/NewsSentimentAnalysis>
+- **BONDPRICING** (Python) — <https://github.com/sinhaarya04/BONDPRICING>
+- **Strategies — ES Futures Research** (Python) — <https://github.com/sinhaarya04/Strategies>
+- **INTERVUE.ORG** (Next.js + AI avatar) — <https://github.com/sinhaarya04/INTERVUE.ORG>
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sinhaarya04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaarya04&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</div>
 
 ---
 
 ## Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 **Machine Learning** · **Python** · **C++** · **SQL** · **TypeScript** · AWS · Data pipelines · Communication
 
