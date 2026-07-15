@@ -111,8 +111,6 @@ Hands-on experience across **cloud/data engineering, automation, ML development,
 
 - CME Trading Challenge (**Final 100**)
 - SIE Certified
-- Series 7
-- Series 66
 - CFA Level I Candidate (Feb 2026)
 - Bloomberg Market Concepts
 - Bloomberg Finance Fundamentals
