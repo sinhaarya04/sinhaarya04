@@ -40,10 +40,23 @@ Hands-on experience across **cloud/data engineering, automation, ML development,
 
 ## Experience highlights
 
-**Disrupt — The FinTech Initiative @ Northeastern** · *Director, Quant Team* *(Sep 2025 – Present)*
-- Lead a **15+** member quant research team with faculty collaboration
-- Build optimization algorithms for large-scale financial networks (**10M+ data points**)
-- Launching Northeastern's first **Quant Trading Competition** (FinHacks, **100+ participants**)
+**Natixis Investment Managers** · *Enterprise Data Engineering Co-op* *(Jul 2026 – Dec 2026)*
+
+**Tigress Financial Partners** · *Trading Intern* *(May 2026 – Jul 2026)*
+- Built proprietary bond-pricing and yield-curve models in Python across the credit space, calibrating **NSS and spline curves** to live Tradeweb and Bloomberg quotes to surface relative-value opportunities
+- Shadowed senior traders on the **NYSE floor**, observing live order flow, market microstructure, and execution dynamics across equity and fixed-income markets through the opening and closing auction windows
+
+**Orion Alpha Asset Management** · *Global Quant Equity & Options Trading Intern* *(Feb 2026 – May 2026)*
+- Architected scalable Python pipelines ingesting real-time equity and options data for trade surveillance, monitoring **Greeks exposure, volatility surfaces, and execution quality** across multi-leg strategies
+- Automated daily P&L attribution and trade-reporting dashboards across equity and derivatives books, tuning execution on historical options flow to reduce slippage on delta-hedged positions
+
+**NU Disrupt** · *Director of Quant* *(Sep 2025 – Present)*
+- Leading a **15+** member team building Python research projects across statistical arbitrage, factor modeling, and order-book microstructure, running weekly code reviews and signal-validation sessions
+- Orchestrated Northeastern's inaugural **Quant Trading Competition** (**100+ participants**), designing challenge sets spanning market making, execution algorithms, and systematic portfolio construction
+
+**E[X] Trading** · *Founder & President* *(Incoming Fall 2026)*
+- Founded and lead a student-run trading organization, building arbitrage and systematic crypto strategies on a production system with backtesting, execution, and unified risk management
+- Launched a campus **prediction-market platform (1,000+ participants)** and ran an algorithmic poker-bot competition for 100+ students, designing the game engine and bot-evaluation framework
 
 **CoinLedger** · *Crypto Accounting Intern* *(Dec 2025 – Present)*
 - Engineered automated ETL pipelines to reconcile multi-exchange + on-chain transaction data into structured ledgers for **cost basis, P&L, and tax reporting**
@@ -67,9 +80,12 @@ Hands-on experience across **cloud/data engineering, automation, ML development,
 
 ## Research
 
-**Northeastern University** · *Undergraduate Researcher*
-- **Prof. Oet & Prof. Chiou** — NLP-based financial news sentiment analysis and **sectoral stress contagion networks** (FAVAR framework, Federal Reserve Z.1 data)
-- **Prof. Somogyi** — **Treasury auction tail** dynamics using Bloomberg terminal data
+**Northeastern University** · *Research Assistant — Prof. Mikhail Oet & Prof. W. Paul Chiou* *(2025 – Present)*
+- Building an NLP sentiment pipeline benchmarking **ProQuest TDM** against a Google-based retrieval approach on financial corpora, evaluating **VADER and FinBERT** across coverage, retrieval speed, and sentiment accuracy for publication
+- Developing **graph-based sectoral stress-spillover and contagion models** to quantify systemic-risk transmission across financial sub-sectors
+
+**Northeastern University** · *Undergraduate Researcher — Prof. Somogyi*
+- **Treasury auction tail** dynamics using Bloomberg terminal data
 
 ---
 
