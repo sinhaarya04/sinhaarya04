@@ -82,10 +82,17 @@ Hands-on experience across **cloud/data engineering, automation, ML development,
 
 **Northeastern University** · *Research Assistant — Prof. Mikhail Oet & Prof. W. Paul Chiou* *(2025 – Present)*
 - Building an NLP sentiment pipeline benchmarking **ProQuest TDM** against a Google-based retrieval approach on financial corpora, evaluating **VADER and FinBERT** across coverage, retrieval speed, and sentiment accuracy for publication
-- Developing **graph-based sectoral stress-spillover and contagion models** to quantify systemic-risk transmission across financial sub-sectors
+- Developing **graph-based sectoral stress-spillover and contagion models** to quantify systemic-risk transmission across financial sub-sectors — awarded a **Summer 2026 PEAK Experiences (Base Camp) Award**
 
 **Northeastern University** · *Undergraduate Researcher — Prof. Somogyi*
 - **Treasury auction tail** dynamics using Bloomberg terminal data
+
+---
+
+## Awards
+
+- **PEAK Experiences Award — Base Camp** *(Summer 2026)* — Northeastern College of Engineering, for undergraduate research on *"Spillovers and Contagion in Financial Intermediaries"* (mentor: Prof. W. Paul Chiou) — [awardees](https://coe.northeastern.edu/news/summer-2026-peak-experiences-awardees-for-undergrad-research/)
+- **Srinivasan Family Award for Student Projects in Emerging Markets** — Center for Emerging Markets, D'Amore-McKim School of Business, for **HarvestSignal**: AI-driven commodity price predictions delivered via SMS to smallholder farmers in India (with the Kaushalya Foundation, Bihar) — [announcement](https://damore-mckim.northeastern.edu/cem/news/cem-awards-four-srinivasan-family-grants-for-projects-in-emerging-markets/)
 
 ---
 
